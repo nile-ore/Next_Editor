@@ -8,8 +8,7 @@ main_application.geometry('1200x800')
 main_application.title('Next Editor')
 main_application.wm_iconbitmap('icon3.ico')
 
-#------------------------------------Start main menu -----------------------------------
-#------------------------------------end main menu--------------------------------------
+
 main_menu = tk.Menu()
 
 #file image
